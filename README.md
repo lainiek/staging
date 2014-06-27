@@ -3,7 +3,7 @@ staging
 
 List of ODC staging sites
 
-Patron:
+Patron: http://cinco-mayo.herokuapp.com/
  * user name: admin@example.com
  * password: password1
 
